@@ -1,0 +1,6 @@
+{
+  "name": "AI Marketing Doctor",
+  "description": "AI-powered customer intelligence and marketing diagnosis platform for small businesses. Understand conversations, find buying intent, recommend action, and prove revenue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
